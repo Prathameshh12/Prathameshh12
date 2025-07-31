@@ -1,4 +1,8 @@
-## Hi there 👋
+## Prathamesh Ahire
+
+# I’m a Software Engineering student at UTS with a strong interest in software development and Cybersecurity. 
+# I enjoy turning ideas into practical, working solutions and continuously learning new skills along the way.
+# Currently exploring Cybersecurity, iOS app development, AI integrations, UI Design.
 
 <!--
 **Prathameshh12/Prathameshh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
